@@ -1,0 +1,32 @@
+.advice{
+    padding: 3rem 1rem;
+    box-shadow: 10px 10px 3px rgba(0,0,0,0.3);
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    backdrop-filter: blur(0.4rem);
+    background-color: rgba(255, 255, 255, 0.1)
+}
+
+.intro{
+  margin-top: 400px;
+  margin-bottom: 5px;
+}
+
+.flexing{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-button {
+  margin-top: 0.5rem;
+  font-size: 1rem;
+  border-radius: 0.8rem;
+  box-shadow: 2px 2px 5px #000;
+  padding: 0.5rem 1.5rem;
+}
+
+.section .flexing {
+    margin: auto;
+}

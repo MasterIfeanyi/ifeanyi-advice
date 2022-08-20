@@ -1,4 +1,3 @@
-import './App.css';
 import Advice from "./features/advice/Advice"
 import Header from "./components/Header"
 import Footer from "./components/Footer"

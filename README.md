@@ -20,3 +20,9 @@ To start the project run `npm start`.
 ## Check out the web app
 
 Open [ifeanyi-advice](https://ifeanyi-advice.netlify.app) to view it in the browser.
+
+## Resources
+
+[Test input Search box with React testing library](https://stackoverflow.com/questions/64342544/test-input-search-box-with-react-testing-library)
+
+[How to select an option from a select list with React Testing Library](https://stackoverflow.com/questions/57946870/how-to-select-an-option-from-a-select-list-with-react-testing-library)
